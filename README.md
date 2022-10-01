@@ -9,11 +9,11 @@ Aqui puedes observar momazos del Fuhrer. [ADVERTENCIA: SOLO POR PROPÓSITOS EDUC
 </html>
 
 
-<h1>MOMAZOS FUHRER</h1>
+<h1>MOMAZOS</h1>
 	
 <html>
 	<head>
 		<body>
-			<img src="https://resources.stuff.co.nz/content/dam/images/1/q/u/j/a/0/image.related.StuffLandscapeSixteenByNine.710x400.1xikfm.png/1571962724045.jpg">
+			<img src="https://imgur.com/9wxjdmf">
 		</body>
 
