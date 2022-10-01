@@ -5,6 +5,7 @@ Aqui puedes observar momazos del Fuhrer. [ADVERTENCIA: SOLO POR PROPÓSITOS EDUC
 <html>
 <head>
 	<title>MOMAZOS FUHRER</title>
+<a href="https://discord.gg/cpTmrNKSgW">NUESTRO DISCORD</a>
 </head>
 </html>
 <img src="https://i.imgur.com/9wxjdmf.jpg">
