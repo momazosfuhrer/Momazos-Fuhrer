@@ -7,7 +7,7 @@ Aqui puedes observar momazos del Fuhrer. [ADVERTENCIA: SOLO POR PROPÓSITOS EDUC
 	<title>MOMAZOS FUHRER</title>
 </head>
 </html>
-
+<img src="https://i.imgur.com/9wxjdmf.jpg">
 
 <h1>MOMAZOS</h1>
 	
