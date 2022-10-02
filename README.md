@@ -23,6 +23,7 @@ Aqui puedes observar momazos del Fuhrer. [ADVERTENCIA: SOLO POR PROPÓSITOS EDUC
 			<img src="https://i.imgur.com/tPK8skW.png">
 			<img src="https://i.imgur.com/yb10yLW.png">
 			<img src="https://i.imgur.com/MqsS84W.png">
+			<img src="https://i.imgur.com/KotBlK3.png">
 
 		</body>
 
